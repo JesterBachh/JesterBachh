@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! I'm Denys
 
-<!--
-**JesterBachh/JesterBachh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am a student at Business College Helsinki, studying Web Development.  
+🛠️ I work with HTML, CSS, JavaScript, and Python, and I enjoy building small projects to practice my skills.
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Versionhallintaa Practice Project** – This project helps me practice Git and GitHub version control. It includes a simple HTML/CSS/JS project showing a random quote generator.  
+  🔗 [Versionhallintaa Repository](https://github.com/JesterBachh/Versionhallintaa)
+
+- **NewTableCheck** – A small practice project in HTML, CSS, and JavaScript table that updates information in real time.  
+  🔗 [NewTableCheck]([https://github.com/JesterBachh/Random-Quote-Generator](https://github.com/JesterBachh/NewTableCheck))
+
+- **PokeDex** - School project on the topic of Pokémon.
+🔗 [PokeDex](https://github.com/NikLem08/Project-Business-College)
+
+## About Me
+
+I am passionate about web development and learning new technologies.  
+I like to practice by building small projects and sharing them on GitHub.  
+
+📫 **GitHub Profile:** [https://github.com/JesterBachh](https://github.com/JesterBachh)
