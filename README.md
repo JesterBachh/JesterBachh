@@ -9,7 +9,7 @@
   🔗 [Versionhallintaa Repository](https://github.com/JesterBachh/Versionhallintaa)
 
 - **NewTableCheck** – A small practice project in HTML, CSS, and JavaScript table that updates information in real time.  
-  🔗 [NewTableCheck]((https://github.com/JesterBachh/NewTableCheck))
+  🔗 [NewTableCheck](https://github.com/JesterBachh/NewTableCheck)
 
 - **PokeDex** - School project on the topic of Pokémon.
 🔗 [PokeDex](https://github.com/NikLem08/Project-Business-College)
